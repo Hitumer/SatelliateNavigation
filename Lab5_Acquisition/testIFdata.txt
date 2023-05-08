@@ -1,0 +1,109 @@
+Sampling Frequency:    16.3676 MHz
+Intermediate Frequency: 4.1304 MHz
+
+Expected results: 
+***
+Serial search:
+PRN 01: ratio=1.734908, not found
+PRN 02: ratio=12.454369, fD=4440.0, tau=110.0
+PRN 03: ratio=2.062572, not found
+PRN 04: ratio=1.154719, not found
+PRN 05: ratio=3.798484, fD=3280.0, tau=609.0
+PRN 06: ratio=1.402063, not found
+PRN 07: ratio=1.051100, not found
+PRN 08: ratio=1.572872, not found
+PRN 09: ratio=1.429905, not found
+PRN 10: ratio=1.379963, not found
+PRN 11: ratio=1.272317, not found
+PRN 12: ratio=3.870519, fD=3280.0, tau=476.0
+PRN 13: ratio=1.545917, not found
+PRN 14: ratio=2.160452, not found
+PRN 15: ratio=1.637326, not found
+PRN 16: ratio=1.200800, not found
+PRN 17: ratio=1.406940, not found
+PRN 18: ratio=1.801680, not found
+PRN 19: ratio=1.300197, not found
+PRN 20: ratio=1.082762, not found
+PRN 21: ratio=1.397304, not found
+PRN 22: ratio=1.233383, not found
+PRN 23: ratio=2.334264, not found
+PRN 24: ratio=2.040276, not found
+PRN 25: ratio=1.413634, not found
+PRN 26: ratio=1.721867, not found
+PRN 27: ratio=1.541363, not found
+PRN 28: ratio=1.192997, not found
+PRN 29: ratio=1.863917, not found
+PRN 30: ratio=3.961689, fD=5600.0, tau=59.0
+PRN 31: ratio=2.066747, not found
+PRN 32: ratio=1.332871, not found
+
+**
+Parellel Frequency Space Search:
+PRN 01: ratio 1.481517, not found
+PRN 02: ratio 12.451701, fD=4457.0, tau=110.0
+PRN 03: ratio 1.414758, not found
+PRN 04: ratio 2.227271, not found
+PRN 05: ratio 4.704552, fD=3458.0, tau=609.0
+PRN 06: ratio 1.222695, not found
+PRN 07: ratio 1.055077, not found
+PRN 08: ratio 1.499589, not found
+PRN 09: ratio 1.972254, not found
+PRN 10: ratio 1.459429, not found
+PRN 11: ratio 1.486730, not found
+PRN 12: ratio 2.752210, not found
+PRN 13: ratio 1.552917, not found
+PRN 14: ratio 4.966187, fD=2459.0, tau=898.0
+PRN 15: ratio 1.643312, not found
+PRN 16: ratio 1.070024, not found
+PRN 17: ratio 1.470673, not found
+PRN 18: ratio 1.205656, not found
+PRN 19: ratio 1.314869, not found
+PRN 20: ratio 1.297671, not found
+PRN 21: ratio 1.413466, not found
+PRN 22: ratio 1.594959, not found
+PRN 23: ratio 1.324738, not found
+PRN 24: ratio 1.415862, not found
+PRN 25: ratio 1.596766, not found
+PRN 26: ratio 1.296723, not found
+PRN 27: ratio 1.294342, not found
+PRN 28: ratio 1.514664, not found
+PRN 29: ratio 1.164394, not found
+PRN 30: ratio 5.069836, fD=5456.0, tau=59.0
+PRN 31: ratio 1.405457, not found
+PRN 32: ratio 1.638566, not found
+
+***
+Parellel Code Space Search:
+PRN 01: ratio 1.516987, not found
+PRN 02: ratio 15.422686, fD=4440.0, tau=110.3
+PRN 03: ratio 1.665849, not found
+PRN 04: ratio 1.199447, not found
+PRN 05: ratio 5.504070, fD=3280.0, tau=609.4
+PRN 06: ratio 1.271541, not found
+PRN 07: ratio 1.614830, not found
+PRN 08: ratio 1.321456, not found
+PRN 09: ratio 1.281278, not found
+PRN 10: ratio 1.137555, not found
+PRN 11: ratio 1.415718, not found
+PRN 12: ratio 5.571302, fD=3280.0, tau=476.4
+PRN 13: ratio 2.157090, not found
+PRN 14: ratio 1.671864, not found
+PRN 15: ratio 1.424738, not found
+PRN 16: ratio 1.255020, not found
+PRN 17: ratio 1.277276, not found
+PRN 18: ratio 1.351475, not found
+PRN 19: ratio 1.300293, not found
+PRN 20: ratio 1.372368, not found
+PRN 21: ratio 1.233427, not found
+PRN 22: ratio 1.279392, not found
+PRN 23: ratio 1.881822, not found
+PRN 24: ratio 1.531607, not found
+PRN 25: ratio 1.781590, not found
+PRN 26: ratio 1.417164, not found
+PRN 27: ratio 1.229881, not found
+PRN 28: ratio 1.655546, not found
+PRN 29: ratio 1.938899, not found
+PRN 30: ratio 8.670150, fD=5600.0, tau=59.4
+PRN 31: ratio 1.622394, not found
+PRN 32: ratio 1.236395, not found
+

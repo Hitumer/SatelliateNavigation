@@ -1,0 +1,2 @@
+Sampling Frequency:    16.3676 MHz
+Intermediate Frequency: 4.1304 MHz
